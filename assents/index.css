@@ -1,0 +1,215 @@
+    * {
+        margin: 0;
+        box-sizing: border-box;
+        padding: 0;
+    }
+
+    .hd {
+        text-shadow: -1px -1px 0px #ced0d3;
+        font-style: oblique;
+        letter-spacing: normal;
+        color: #0b524f;
+        width: 20%;
+        margin: auto;
+        padding: 27px;
+
+
+    }
+
+    .pt {
+        font-family: Arial;
+        font-weight: 900px;
+        padding-left: 20px;
+        padding-top: 10px;
+    }
+
+    .price {
+        color: rgb(18, 232, 18);
+        padding-left: 20px;
+        padding-top: 10px;
+        font-size: 18px;
+
+    }
+
+    .bprice {
+        color: red;
+        text-decoration: line-through;
+        padding-left: 7rem;
+        margin-top: -19px;
+        font-size: 15px;
+
+    }
+
+    .img {
+        position: relative;
+        top: 20px;
+        left: 7px;
+        width: 10%;
+
+    }
+
+    .dv {
+
+        background-color: black;
+        padding-top: 11rem;
+        position: absolute;
+        bottom: 2rem;
+        width: 99.5%;
+        left: 2px;
+
+
+    }
+
+    .pd {
+        color: #ffffff;
+        position: relative;
+        bottom: 80px;
+        left: 2px;
+    }
+
+    .sd {
+        position: relative;
+        bottom: 70px;
+        left: 43rem;
+        font-family: arial;
+        font-weight: bold;
+    }
+
+    .hr1 {
+        position: relative;
+        top: 9px;
+        font-weight: 900px;
+    }
+
+    .px {
+        position: absolute;
+        top: 43rem;
+        left: 10px;
+        font-weight: bolder;
+
+
+    }
+
+    .table {
+        position: relative;
+        top: 21rem;
+        width: 100%;
+        border: 2x solid;
+
+    }
+
+    .form2 {
+        position: relative;
+        top: 25rem;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        left: 10rem;
+
+    }
+
+    #form1 {
+        position: relative;
+        top: 27rem;
+        left: 2.5rem;
+
+    }
+
+    .question {
+        position: relative;
+        top: 28rem;
+        left: 6.7rem;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+    }
+
+    .cb {
+        position: relative;
+        top: 27rem;
+        left: 20.5rem;
+        accent-color: rgb(84, 240, 84);
+    }
+
+    .datequestion {
+        position: relative;
+        top: 28rem;
+        left: 3rem;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+    }
+
+    .date {
+        position: relative;
+        top: 26.8rem;
+        left: 15rem;
+
+    }
+
+    .lang {
+        position: relative;
+        top: 28rem;
+        left: 2.6rem;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+    }
+
+    .answer {
+        position: relative;
+        top: 26.8rem;
+        left: 16rem;
+    }
+
+    .point {
+        position: relative;
+        top: 27rem;
+        left: 3rem;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+    }
+
+    .num {
+        position: relative;
+        top: 26rem;
+        left: 12rem;
+    }
+
+    .comment {
+        position: relative;
+        top: 28rem;
+        left: 10rem;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+    }
+
+    .area {
+        position: relative;
+        top: 28rem;
+        left: 5rem;
+    }
+
+    .submit {
+        position: relative;
+        top: 29.7rem;
+        right: 6rem;
+        width: 7%;
+        background-color: rgb(62, 252, 62);
+        padding-top: 10px;
+        padding-bottom: 5px;
+
+
+    }
+
+    .ft {
+        width: 99.5%;
+        background-color: #1c9c96;
+        position: relative;
+        top: 34rem;
+        padding-top: 6rem;
+        left: 2px;
+    }
+
+    .f {
+        color: #ffffff;
+        position: relative;
+        bottom: 1.5rem;
+        text-align: center;
+    }
